@@ -1,0 +1,533 @@
+Modules list:
+-------------
+engine-test.c.21928.0.o:
+    CODE              Offs=000000  Size=001010  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=00007C  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000632  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000003  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addeqsp.o):
+    CODE              Offs=001010  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addysp.o):
+    CODE              Offs=001021  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax3.o):
+    CODE              Offs=00102F  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax4.o):
+    CODE              Offs=00103D  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(axlong.o):
+    CODE              Offs=00104E  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(callmain.o):
+    CODE              Offs=00105B  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000003  Size=000004  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(condes.o):
+    CODE              Offs=001072  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000007  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp1.o):
+    CODE              Offs=00107E  Size=000009  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp2.o):
+    CODE              Offs=001087  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp3.o):
+    CODE              Offs=001094  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp4.o):
+    CODE              Offs=0010A1  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp5.o):
+    CODE              Offs=0010AE  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(gt.o):
+    CODE              Offs=0010BB  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(icmp.o):
+    CODE              Offs=0010C5  Size=00002E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp1.o):
+    CODE              Offs=0010F3  Size=000007  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp2.o):
+    CODE              Offs=0010FA  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp3.o):
+    CODE              Offs=001110  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp4.o):
+    CODE              Offs=001115  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp5.o):
+    CODE              Offs=00111A  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp6.o):
+    CODE              Offs=00111F  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(kernal.o):
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lcmp.o):
+    CODE              Offs=001124  Size=00003B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ldai.o):
+    CODE              Offs=00115F  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ldeaxysp.o):
+    CODE              Offs=00116B  Size=000013  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lle.o):
+    CODE              Offs=00117E  Size=000006  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lmul.o):
+    CODE              Offs=001184  Size=00005C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lpush.o):
+    CODE              Offs=0011E0  Size=000021  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lsub.o):
+    CODE              Offs=001201  Size=000027  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lt.o):
+    CODE              Offs=001228  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(makebool.o):
+    CODE              Offs=001232  Size=00002C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(memset.o):
+    CODE              Offs=00125E  Size=00005D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul.o):
+    CODE              Offs=0012BB  Size=000045  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul8.o):
+    CODE              Offs=001300  Size=00003A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(negabs.o):
+    CODE              Offs=00133A  Size=000012  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(popptr1.o):
+    CODE              Offs=00134C  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pusha.o):
+    CODE              Offs=00135A  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushax.o):
+    CODE              Offs=001370  Size=00001A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushwsp.o):
+    CODE              Offs=00138A  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shl.o):
+    CODE              Offs=0013A6  Size=000033  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax2.o):
+    CODE              Offs=0013D9  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax3.o):
+    CODE              Offs=0013E4  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staxsp.o):
+    CODE              Offs=0013F2  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staxspi.o):
+    CODE              Offs=0013FD  Size=00001B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(sub.o):
+    CODE              Offs=001418  Size=000015  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(udiv.o):
+    CODE              Offs=00142D  Size=00004F  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(umod.o):
+    CODE              Offs=00147C  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zerobss.o):
+    CODE              Offs=00148D  Size=000023  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  001CEF  0014B0  00001
+RODATA                001CF0  001D6B  00007C  00001
+DATA                  001D6C  001D97  00002C  00001
+INIT                  001D98  001DB3  00001C  00001
+BSS                   001DB4  0023E5  000632  00001
+ONCE                  001DB4  001DD9  000026  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     00FFD2 RLA    __BSS_RUN__               001DB4 RLA    
+__BSS_SIZE__              000632 REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__CONSTRUCTOR_TABLE__     001DDA RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      001D6C RLA    __EXEHDR__                000001 REA    
+__HEADER_LAST__           00080D RLA    __HIMEM__                 00D000 REA    
+__LOADADDR__              000001 REA    __MAIN_SIZE__             00C7F3 REA    
+__MAIN_START__            00080D RLA    __ONCE_RUN__              001DB4 RLA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+___bzero                  001A9E RLA    _main                     00159E RLA    
+_memset                   001AA6 RLA    addeq0sp                  001850 RLA    
+addeqysp                  001852 RLA    addysp                    001862 RLA    
+addysp1                   001861 RLA    axlong                    00188E RLA    
+booleq                    001A78 RLA    boolgt                    001A87 RLA    
+boolle                    001A7F RLA    boollt                    001A81 RLA    
+boolne                    001A72 RLA    c_sp                      000002 RLZ    
+callmain                  00189B RLA    decsp1                    0018BE RLA    
+decsp2                    0018C7 RLA    decsp3                    0018D4 RLA    
+decsp4                    0018E1 RLA    decsp5                    0018EE RLA    
+donelib                   0018B2 RLA    incsp1                    001933 RLA    
+incsp2                    001942 RLA    incsp3                    001950 RLA    
+incsp4                    001955 RLA    incsp5                    00195A RLA    
+incsp6                    00195F RLA    initlib                   001DB4 RLA    
+ldaidx                    00199F RLA    ldeaxysp                  0019AD RLA    
+mul8x16                   001B42 RLA    mul8x16a                  001B4C RLA    
+negax                     001B7E RLA    popax                     00193A RLA    
+popptr1                   001B8C RLA    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    push0                     001BB0 RLA    
+pusha                     001B9E RLA    pusha0                    001BB2 RLA    
+pushax                    001BB4 RLA    pusheax                   001A29 RLA    
+pushw0sp                  001BCA RLA    pushwysp                  001BCC RLA    
+shlax3                    00186F RLA    shlax4                    00187D RLA    
+shlaxy                    001BED RLA    shrax2                    001C19 RLA    
+shrax3                    001C24 RLA    sreg                      000004 RLZ    
+stax0sp                   001C32 RLA    staxspidx                 001C3D RLA    
+staxysp                   001C34 RLA    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+tmp4                      000015 RLZ    tosgtax                   0018FF RLA    
+tosicmp                   001907 RLA    toslcmp                   001964 RLA    
+tosleeax                  0019BE RLA    tosltax                   001A6C RLA    
+tosmuleax                 0019CA RLA    tossuba0                  001C58 RLA    
+tossubeax                 001A47 RLA    tosumoda0                 001CBC RLA    
+tosumula0                 001B40 RLA    tosumulax                 001AFB RLA    
+udiv16                    001C7E RLA    zerobss                   001CCD RLA    
+
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__EXEHDR__                000001 REA    __STARTUP__               000001 REA    
+__LOADADDR__              000001 REA    c_sp                      000002 RLZ    
+sreg                      000004 RLZ    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+tmp4                      000015 RLZ    __BSS_SIZE__              000632 REA    
+__STACKSIZE__             000800 REA    __MAIN_START__            00080D RLA    
+__HEADER_LAST__           00080D RLA    _main                     00159E RLA    
+addeq0sp                  001850 RLA    addeqysp                  001852 RLA    
+addysp1                   001861 RLA    addysp                    001862 RLA    
+shlax3                    00186F RLA    shlax4                    00187D RLA    
+axlong                    00188E RLA    callmain                  00189B RLA    
+donelib                   0018B2 RLA    decsp1                    0018BE RLA    
+decsp2                    0018C7 RLA    decsp3                    0018D4 RLA    
+decsp4                    0018E1 RLA    decsp5                    0018EE RLA    
+tosgtax                   0018FF RLA    tosicmp                   001907 RLA    
+incsp1                    001933 RLA    popax                     00193A RLA    
+incsp2                    001942 RLA    incsp3                    001950 RLA    
+incsp4                    001955 RLA    incsp5                    00195A RLA    
+incsp6                    00195F RLA    toslcmp                   001964 RLA    
+ldaidx                    00199F RLA    ldeaxysp                  0019AD RLA    
+tosleeax                  0019BE RLA    tosmuleax                 0019CA RLA    
+pusheax                   001A29 RLA    tossubeax                 001A47 RLA    
+tosltax                   001A6C RLA    boolne                    001A72 RLA    
+booleq                    001A78 RLA    boolle                    001A7F RLA    
+boollt                    001A81 RLA    boolgt                    001A87 RLA    
+___bzero                  001A9E RLA    _memset                   001AA6 RLA    
+tosumulax                 001AFB RLA    tosumula0                 001B40 RLA    
+mul8x16                   001B42 RLA    mul8x16a                  001B4C RLA    
+negax                     001B7E RLA    popptr1                   001B8C RLA    
+pusha                     001B9E RLA    push0                     001BB0 RLA    
+pusha0                    001BB2 RLA    pushax                    001BB4 RLA    
+pushw0sp                  001BCA RLA    pushwysp                  001BCC RLA    
+shlaxy                    001BED RLA    shrax2                    001C19 RLA    
+shrax3                    001C24 RLA    stax0sp                   001C32 RLA    
+staxysp                   001C34 RLA    staxspidx                 001C3D RLA    
+tossuba0                  001C58 RLA    udiv16                    001C7E RLA    
+tosumoda0                 001CBC RLA    zerobss                   001CCD RLA    
+__DESTRUCTOR_TABLE__      001D6C RLA    __BSS_RUN__               001DB4 RLA    
+__ONCE_RUN__              001DB4 RLA    initlib                   001DB4 RLA    
+__CONSTRUCTOR_TABLE__     001DDA RLA    __MAIN_SIZE__             00C7F3 REA    
+__HIMEM__                 00D000 REA    BSOUT                     00FFD2 RLA    
+
+
+
+Imports list:
+-------------
+BSOUT (kernal.o):
+    crt0.o                    c64/crt0.s:10
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:13
+___bzero (memset.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+_main (engine-test.c.21928.0.o):
+    callmain.o                runtime/callmain.s:11
+_memset (memset.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:14
+addeq0sp (addeqsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+addeqysp (addeqsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+addysp (addysp.o):
+    incsp6.o                  runtime/incsp6.s:8
+    incsp5.o                  runtime/incsp5.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+    lsub.o                    runtime/lsub.s:11
+    lmul.o                    runtime/lmul.s:9
+axlong (axlong.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+booleq (makebool.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+boolgt (makebool.o):
+    gt.o                      runtime/gt.s:8
+boolle (makebool.o):
+    lle.o                     runtime/lle.s:8
+boollt (makebool.o):
+    lt.o                      runtime/lt.s:8
+boolne (makebool.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+c_sp (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    sub.o                     runtime/sub.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    staxsp.o                  runtime/staxsp.s:8
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    memset.o                  common/memset.s:20
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp5.o                  runtime/decsp5.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /home/runner/work/cc65/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:10
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+decsp1 (decsp1.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+decsp2 (decsp2.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+decsp3 (decsp3.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+decsp5 (decsp5.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+incsp1 (incsp1.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+incsp2 (incsp2.o):
+    staxspi.o                 runtime/staxspi.s:9
+    popptr1.o                 runtime/popptr1.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+incsp3 (incsp3.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+incsp4 (incsp4.o):
+    lcmp.o                    runtime/lcmp.s:9
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+incsp5 (incsp5.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+incsp6 (incsp6.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+ldaidx (ldai.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+ldeaxysp (ldeaxysp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+negax (negabs.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+popax (incsp2.o):
+    shl.o                     runtime/shl.s:15
+    memset.o                  common/memset.s:19
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    umod.o                    runtime/umod.s:8
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+ptr1 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    lcmp.o                    runtime/lcmp.s:10
+    zerobss.o                 common/zerobss.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    popptr1.o                 runtime/popptr1.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    memset.o                  common/memset.s:20
+    lmul.o                    runtime/lmul.s:10
+    ldai.o                    runtime/ldai.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:11
+ptr2 (zeropage.o):
+    memset.o                  common/memset.s:20
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:11
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s:20
+    lmul.o                    runtime/lmul.s:10
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    umod.o                    runtime/umod.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    lmul.o                    runtime/lmul.s:10
+push0 (pushax.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pusha (pusha.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pusha0 (pushax.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pusheax (lpush.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pushw0sp (pushwsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+pushwysp (pushwsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+shlax3 (aslax3.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+shlax4 (aslax4.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+shlaxy (shl.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+shrax2 (shrax2.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+shrax3 (shrax3.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+sreg (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    lcmp.o                    runtime/lcmp.s:10
+    umod.o                    runtime/umod.s:9
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    icmp.o                    runtime/icmp.s:9
+    axlong.o                  runtime/axlong.s:9
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:10
+stax0sp (staxsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+staxspidx (staxspi.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+staxysp (staxsp.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tmp1 (zeropage.o):
+    staxspi.o                 runtime/staxspi.s:10
+    shrax3.o                  runtime/shrax3.s:8
+    shrax2.o                  runtime/shrax2.s:8
+    shl.o                     runtime/shl.s:16
+    mul.o                     runtime/mul.s:10
+    aslax4.o                  runtime/aslax4.s:8
+    aslax3.o                  runtime/aslax3.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:11
+tmp2 (zeropage.o):
+    lmul.o                    runtime/lmul.s:10
+tmp3 (zeropage.o):
+    lmul.o                    runtime/lmul.s:10
+tmp4 (zeropage.o):
+    lmul.o                    runtime/lmul.s:10
+tosgtax (gt.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosicmp (icmp.o):
+    lt.o                      runtime/lt.s:8
+    gt.o                      runtime/gt.s:8
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+toslcmp (lcmp.o):
+    lle.o                     runtime/lle.s:8
+tosleeax (lle.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosltax (lt.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosmuleax (lmul.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tossuba0 (sub.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tossubeax (lsub.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosumoda0 (umod.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosumula0 (mul8.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+tosumulax (mul.o):
+    engine-test.c.21928.0.o   engine-test.c.21928.0.s:2515
+udiv16 (udiv.o):
+    umod.o                    runtime/umod.s:8
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

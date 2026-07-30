@@ -1,0 +1,671 @@
+Modules list:
+-------------
+cascade.c.38296.0.o:
+    CODE              Offs=000000  Size=000FB2  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000006  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000999  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=000005  Align=00001  Fill=0000
+stamp.s.38296.1.o:
+    CODE              Offs=000FB2  Size=000187  Align=00001  Fill=0000
+    BSS               Offs=000999  Size=000004  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addeqsp.o):
+    CODE              Offs=001139  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addysp.o):
+    CODE              Offs=00114A  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax3.o):
+    CODE              Offs=001158  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax4.o):
+    CODE              Offs=001166  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax1.o):
+    CODE              Offs=001177  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax2.o):
+    CODE              Offs=001181  Size=00000F  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax3.o):
+    CODE              Offs=001190  Size=000014  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(axlong.o):
+    CODE              Offs=0011A4  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(callmain.o):
+    CODE              Offs=0011B1  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=000005  Size=000004  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(condes.o):
+    CODE              Offs=0011C8  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=000009  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp1.o):
+    CODE              Offs=0011D4  Size=000009  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp2.o):
+    CODE              Offs=0011DD  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp3.o):
+    CODE              Offs=0011EA  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp4.o):
+    CODE              Offs=0011F7  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp5.o):
+    CODE              Offs=001204  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp6.o):
+    CODE              Offs=001211  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(gt.o):
+    CODE              Offs=00121E  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(icmp.o):
+    CODE              Offs=001228  Size=00002E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp1.o):
+    CODE              Offs=001256  Size=000007  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp2.o):
+    CODE              Offs=00125D  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp3.o):
+    CODE              Offs=001273  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp4.o):
+    CODE              Offs=001278  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp5.o):
+    CODE              Offs=00127D  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(kernal.o):
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lcmp.o):
+    CODE              Offs=001282  Size=00003B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ldeaxysp.o):
+    CODE              Offs=0012BD  Size=000013  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lle.o):
+    CODE              Offs=0012D0  Size=000006  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lmul.o):
+    CODE              Offs=0012D6  Size=00005C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lor.o):
+    CODE              Offs=001332  Size=000024  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lpush.o):
+    CODE              Offs=001356  Size=000021  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lsub.o):
+    CODE              Offs=001377  Size=000027  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lt.o):
+    CODE              Offs=00139E  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lugt.o):
+    CODE              Offs=0013A8  Size=000006  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(makebool.o):
+    CODE              Offs=0013AE  Size=00002C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(memset.o):
+    CODE              Offs=0013DA  Size=00005D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mod.o):
+    CODE              Offs=001437  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul.o):
+    CODE              Offs=001448  Size=000045  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul8.o):
+    CODE              Offs=00148D  Size=00003A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mulax10.o):
+    CODE              Offs=0014C7  Size=000019  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(negabs.o):
+    CODE              Offs=0014E0  Size=000012  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(or.o):
+    CODE              Offs=0014F2  Size=000012  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(popptr1.o):
+    CODE              Offs=001504  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pusha.o):
+    CODE              Offs=001512  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushax.o):
+    CODE              Offs=001528  Size=00001A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushwsp.o):
+    CODE              Offs=001542  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shelp.o):
+    CODE              Offs=00155E  Size=000020  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shl.o):
+    CODE              Offs=00157E  Size=000033  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax2.o):
+    CODE              Offs=0015B1  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax3.o):
+    CODE              Offs=0015BC  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staspidx.o):
+    CODE              Offs=0015CA  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staxsp.o):
+    CODE              Offs=0015E0  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(steaxsp.o):
+    CODE              Offs=0015EB  Size=000015  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(sub.o):
+    CODE              Offs=001600  Size=000015  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(udiv.o):
+    CODE              Offs=001615  Size=00004F  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zerobss.o):
+    CODE              Offs=001664  Size=000023  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  001EC6  001687  00001
+RODATA                001EC7  001ECC  000006  00001
+DATA                  001ECD  001EFA  00002E  00001
+INIT                  001EFB  001F16  00001C  00001
+BSS                   001F17  0028B3  00099D  00001
+ONCE                  001F17  001F3C  000026  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     00FFD2 RLA    _BALL_MASK                001F17 RLA    
+_EXPAND                   001F2D RLA    _ROW_ADDR_HI              002355 RLA    
+_ROW_ADDR_LO              00228D RLA    _ROW_CELL_HI              0024E5 RLA    
+_ROW_CELL_LO              00241D RLA    __BSS_RUN__               001F17 RLA    
+__BSS_SIZE__              00099D REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__CONSTRUCTOR_TABLE__     001F3D RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      001ECD RLA    __EXEHDR__                000001 REA    
+__HEADER_LAST__           00080D RLA    __HIMEM__                 00D000 REA    
+__LOADADDR__              000001 REA    __MAIN_SIZE__             00C7F3 REA    
+__MAIN_START__            00080D RLA    __ONCE_RUN__              001F17 RLA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+___bzero                  001C1A RLA    _main                     00174D RLA    
+_stamp_ball_asm           0017F2 RLA    _stamp_bc                 0025AD RLA    
+_stamp_col                0025AF RLA    _stamp_y0                 0025AE RLA    
+addeq0sp                  001979 RLA    addeqysp                  00197B RLA    
+addysp                    00198B RLA    addysp1                   00198A RLA    
+aslax3                    001998 RLA    aslax4                    0019A6 RLA    
+asrax1                    0019B7 RLA    asrax2                    0019C1 RLA    
+asrax3                    0019D0 RLA    axlong                    0019E4 RLA    
+boolgt                    001C03 RLA    boolle                    001BFB RLA    
+boollt                    001BFD RLA    boolugt                   001C13 RLA    
+boolult                   001C0D RLA    c_sp                      000002 RLZ    
+callmain                  0019F1 RLA    decsp1                    001A14 RLA    
+decsp2                    001A1D RLA    decsp3                    001A2A RLA    
+decsp4                    001A37 RLA    decsp5                    001A44 RLA    
+decsp6                    001A51 RLA    donelib                   001A08 RLA    
+incsp1                    001A96 RLA    incsp2                    001AA5 RLA    
+incsp3                    001AB3 RLA    incsp4                    001AB8 RLA    
+incsp5                    001ABD RLA    initlib                   001F17 RLA    
+ldeax0sp                  001AFD RLA    ldeaxysp                  001AFF RLA    
+mul8x16                   001CCF RLA    mul8x16a                  001CD9 RLA    
+mulax10                   001D07 RLA    negax                     001D24 RLA    
+popax                     001A9D RLA    popptr1                   001D44 RLA    
+popsargsudiv16            001D9E RLA    ptr1                      00000A RLZ    
+ptr2                      00000C RLZ    ptr3                      00000E RLZ    
+ptr4                      000010 RLZ    push0                     001D68 RLA    
+pusha                     001D56 RLA    pusha0                    001D6A RLA    
+pushax                    001D6C RLA    pusheax                   001B9F RLA    
+pushwysp                  001D84 RLA    regsave                   000006 RLZ    
+shlax3                    001998 RLA    shlax4                    0019A6 RLA    
+shrax2                    001DF1 RLA    shrax3                    001DFC RLA    
+sreg                      000004 RLZ    staspidx                  001E0A RLA    
+staxysp                   001E22 RLA    steax0sp                  001E2B RLA    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+tosaslax                  001DBE RLA    tosgtax                   001A62 RLA    
+tosicmp                   001A6A RLA    toslcmp                   001AC2 RLA    
+tosleeax                  001B10 RLA    tosltax                   001BE2 RLA    
+tosmoda0                  001C77 RLA    tosmula0                  001CCD RLA    
+tosmulax                  001C88 RLA    tosmuleax                 001B1C RLA    
+tosor0ax                  001B72 RLA    tosora0                   001D32 RLA    
+tossuba0                  001E40 RLA    tossubax                  001E42 RLA    
+tossubeax                 001BBD RLA    tosugteax                 001BE8 RLA    
+tosumula0                 001CCD RLA    tosumulax                 001C88 RLA    
+udiv16                    001E66 RLA    zerobss                   001EA4 RLA    
+
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__LOADADDR__              000001 REA    __STARTUP__               000001 REA    
+__EXEHDR__                000001 REA    c_sp                      000002 RLZ    
+sreg                      000004 RLZ    regsave                   000006 RLZ    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+__STACKSIZE__             000800 REA    __MAIN_START__            00080D RLA    
+__HEADER_LAST__           00080D RLA    __BSS_SIZE__              00099D REA    
+_main                     00174D RLA    _stamp_ball_asm           0017F2 RLA    
+addeq0sp                  001979 RLA    addeqysp                  00197B RLA    
+addysp1                   00198A RLA    addysp                    00198B RLA    
+aslax3                    001998 RLA    shlax3                    001998 RLA    
+aslax4                    0019A6 RLA    shlax4                    0019A6 RLA    
+asrax1                    0019B7 RLA    asrax2                    0019C1 RLA    
+asrax3                    0019D0 RLA    axlong                    0019E4 RLA    
+callmain                  0019F1 RLA    donelib                   001A08 RLA    
+decsp1                    001A14 RLA    decsp2                    001A1D RLA    
+decsp3                    001A2A RLA    decsp4                    001A37 RLA    
+decsp5                    001A44 RLA    decsp6                    001A51 RLA    
+tosgtax                   001A62 RLA    tosicmp                   001A6A RLA    
+incsp1                    001A96 RLA    popax                     001A9D RLA    
+incsp2                    001AA5 RLA    incsp3                    001AB3 RLA    
+incsp4                    001AB8 RLA    incsp5                    001ABD RLA    
+toslcmp                   001AC2 RLA    ldeax0sp                  001AFD RLA    
+ldeaxysp                  001AFF RLA    tosleeax                  001B10 RLA    
+tosmuleax                 001B1C RLA    tosor0ax                  001B72 RLA    
+pusheax                   001B9F RLA    tossubeax                 001BBD RLA    
+tosltax                   001BE2 RLA    tosugteax                 001BE8 RLA    
+boolle                    001BFB RLA    boollt                    001BFD RLA    
+boolgt                    001C03 RLA    boolult                   001C0D RLA    
+boolugt                   001C13 RLA    ___bzero                  001C1A RLA    
+tosmoda0                  001C77 RLA    tosumulax                 001C88 RLA    
+tosmulax                  001C88 RLA    tosmula0                  001CCD RLA    
+tosumula0                 001CCD RLA    mul8x16                   001CCF RLA    
+mul8x16a                  001CD9 RLA    mulax10                   001D07 RLA    
+negax                     001D24 RLA    tosora0                   001D32 RLA    
+popptr1                   001D44 RLA    pusha                     001D56 RLA    
+push0                     001D68 RLA    pusha0                    001D6A RLA    
+pushax                    001D6C RLA    pushwysp                  001D84 RLA    
+popsargsudiv16            001D9E RLA    tosaslax                  001DBE RLA    
+shrax2                    001DF1 RLA    shrax3                    001DFC RLA    
+staspidx                  001E0A RLA    staxysp                   001E22 RLA    
+steax0sp                  001E2B RLA    tossuba0                  001E40 RLA    
+tossubax                  001E42 RLA    udiv16                    001E66 RLA    
+zerobss                   001EA4 RLA    __DESTRUCTOR_TABLE__      001ECD RLA    
+_BALL_MASK                001F17 RLA    __BSS_RUN__               001F17 RLA    
+__ONCE_RUN__              001F17 RLA    initlib                   001F17 RLA    
+_EXPAND                   001F2D RLA    __CONSTRUCTOR_TABLE__     001F3D RLA    
+_ROW_ADDR_LO              00228D RLA    _ROW_ADDR_HI              002355 RLA    
+_ROW_CELL_LO              00241D RLA    _ROW_CELL_HI              0024E5 RLA    
+_stamp_bc                 0025AD RLA    _stamp_y0                 0025AE RLA    
+_stamp_col                0025AF RLA    __MAIN_SIZE__             00C7F3 REA    
+__HIMEM__                 00D000 REA    BSOUT                     00FFD2 RLA    
+
+
+
+Imports list:
+-------------
+BSOUT (kernal.o):
+    crt0.o                    c64/crt0.s:10
+_BALL_MASK (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:25
+_EXPAND (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:25
+_ROW_ADDR_HI (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:26
+_ROW_ADDR_LO (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:26
+_ROW_CELL_HI (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:27
+_ROW_CELL_LO (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:27
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:13
+___bzero (memset.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+_main (cascade.c.38296.0.o):
+    callmain.o                runtime/callmain.s:11
+_stamp_ball_asm (stamp.s.38296.1.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:24
+_stamp_bc (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+_stamp_col (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+_stamp_y0 (cascade.c.38296.0.o):
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+addeq0sp (addeqsp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+addeqysp (addeqsp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+addysp (addysp.o):
+    incsp5.o                  runtime/incsp5.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+    or.o                      runtime/or.s:9
+    lsub.o                    runtime/lsub.s:11
+    lor.o                     runtime/lor.s:9
+    lmul.o                    runtime/lmul.s:9
+aslax3 (aslax3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+aslax4 (aslax4.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+asrax1 (asrax1.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+asrax2 (asrax2.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+asrax3 (asrax3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+axlong (axlong.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+boolgt (makebool.o):
+    gt.o                      runtime/gt.s:8
+boolle (makebool.o):
+    lle.o                     runtime/lle.s:8
+boollt (makebool.o):
+    lt.o                      runtime/lt.s:8
+boolugt (makebool.o):
+    lugt.o                    runtime/lugt.s:8
+boolult (makebool.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+c_sp (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    sub.o                     runtime/sub.s:9
+    steaxsp.o                 runtime/steaxsp.s:8
+    staxsp.o                  runtime/staxsp.s:8
+    staspidx.o                runtime/staspidx.s:9
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    or.o                      runtime/or.s:10
+    memset.o                  common/memset.s:20
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lor.o                     runtime/lor.s:10
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp6.o                  runtime/decsp6.s:8
+    decsp5.o                  runtime/decsp5.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /home/runner/work/cc65/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    cascade.c.38296.0.o       cascade.c.38296.0.s:10
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+decsp1 (decsp1.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+decsp2 (decsp2.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+decsp3 (decsp3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+decsp5 (decsp5.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+decsp6 (decsp6.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+incsp1 (incsp1.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+incsp2 (incsp2.o):
+    staspidx.o                runtime/staspidx.s:8
+    popptr1.o                 runtime/popptr1.s:8
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+incsp3 (incsp3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+incsp4 (incsp4.o):
+    lcmp.o                    runtime/lcmp.s:9
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+incsp5 (incsp5.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+ldeax0sp (ldeaxysp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+ldeaxysp (ldeaxysp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+mulax10 (mulax10.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    mod.o                     runtime/mod.s:11
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+popax (incsp2.o):
+    shl.o                     runtime/shl.s:15
+    shelp.o                   runtime/shelp.s:11
+    memset.o                  common/memset.s:19
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+popsargsudiv16 (shelp.o):
+    mod.o                     runtime/mod.s:11
+ptr1 (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    zerobss.o                 common/zerobss.s:9
+    udiv.o                    runtime/udiv.s:10
+    staspidx.o                runtime/staspidx.s:9
+    shelp.o                   runtime/shelp.s:12
+    popptr1.o                 runtime/popptr1.s:9
+    mulax10.o                 runtime/mulax10.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    memset.o                  common/memset.s:20
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+    cascade.c.38296.0.o       cascade.c.38296.0.s:11
+ptr2 (zeropage.o):
+    memset.o                  common/memset.s:20
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+    cascade.c.38296.0.o       cascade.c.38296.0.s:11
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s:20
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+ptr4 (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    shelp.o                   runtime/shelp.s:12
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+push0 (pushax.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+pusha (pusha.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+pusha0 (pushax.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+pusheax (lpush.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+pushwysp (pushwsp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+regsave (zeropage.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:10
+shlax3 (aslax3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+shlax4 (aslax4.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+shrax2 (shrax2.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+shrax3 (shrax3.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+sreg (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    udiv.o                    runtime/udiv.s:10
+    steaxsp.o                 runtime/steaxsp.s:8
+    mod.o                     runtime/mod.s:12
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lor.o                     runtime/lor.s:10
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    icmp.o                    runtime/icmp.s:9
+    axlong.o                  runtime/axlong.s:9
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:11
+    cascade.c.38296.0.o       cascade.c.38296.0.s:10
+staspidx (staspidx.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+staxysp (staxsp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+steax0sp (steaxsp.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tmp1 (zeropage.o):
+    staspidx.o                runtime/staspidx.s:9
+    shrax3.o                  runtime/shrax3.s:8
+    shrax2.o                  runtime/shrax2.s:8
+    shl.o                     runtime/shl.s:16
+    shelp.o                   runtime/shelp.s:12
+    or.o                      runtime/or.s:10
+    mul.o                     runtime/mul.s:10
+    mod.o                     runtime/mod.s:12
+    lor.o                     runtime/lor.s:10
+    asrax3.o                  runtime/asrax3.s:9
+    asrax2.o                  runtime/asrax2.s:8
+    asrax1.o                  runtime/asrax1.s:8
+    aslax4.o                  runtime/aslax4.s:8
+    aslax3.o                  runtime/aslax3.s:8
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+    cascade.c.38296.0.o       cascade.c.38296.0.s:11
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s:12
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tmp3 (zeropage.o):
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tmp4 (zeropage.o):
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38296.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tosaslax (shl.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosgtax (gt.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosicmp (icmp.o):
+    lt.o                      runtime/lt.s:8
+    gt.o                      runtime/gt.s:8
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+toslcmp (lcmp.o):
+    lugt.o                    runtime/lugt.s:8
+    lle.o                     runtime/lle.s:8
+tosleeax (lle.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosltax (lt.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosmoda0 (mod.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosmula0 (mul8.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosmulax (mul.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosmuleax (lmul.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosor0ax (lor.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosora0 (or.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tossuba0 (sub.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tossubax (sub.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tossubeax (lsub.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosugteax (lugt.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosumula0 (mul8.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+tosumulax (mul.o):
+    cascade.c.38296.0.o       cascade.c.38296.0.s:2369
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s:11
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+

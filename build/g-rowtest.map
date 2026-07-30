@@ -1,0 +1,1045 @@
+Modules list:
+-------------
+game.c.38180.0.o:
+    CODE              Offs=000000  Size=003FBF  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000250  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000A48  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=00001A  Align=00001  Fill=0000
+stamp.s.38180.1.o:
+    CODE              Offs=003FBF  Size=000157  Align=00001  Fill=0000
+    BSS               Offs=000A48  Size=000004  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(add.o):
+    CODE              Offs=004116  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addeqsp.o):
+    CODE              Offs=004132  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(addysp.o):
+    CODE              Offs=004143  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax2.o):
+    CODE              Offs=004151  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax3.o):
+    CODE              Offs=00415C  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(aslax4.o):
+    CODE              Offs=00416A  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax1.o):
+    CODE              Offs=00417B  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax2.o):
+    CODE              Offs=004185  Size=00000F  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(asrax3.o):
+    CODE              Offs=004194  Size=000014  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(axlong.o):
+    CODE              Offs=0041A8  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(callmain.o):
+    CODE              Offs=0041B5  Size=000017  Align=00001  Fill=0000
+    DATA              Offs=00001A  Size=000004  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(condes.o):
+    CODE              Offs=0041CC  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=00001E  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(crt0.o):
+    STARTUP           Offs=000000  Size=000033  Align=00001  Fill=0000
+    ONCE              Offs=00000C  Size=00001A  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp1.o):
+    CODE              Offs=0041D8  Size=000009  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp2.o):
+    CODE              Offs=0041E1  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp3.o):
+    CODE              Offs=0041EE  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp4.o):
+    CODE              Offs=0041FB  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp5.o):
+    CODE              Offs=004208  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp6.o):
+    CODE              Offs=004215  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(decsp8.o):
+    CODE              Offs=004222  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(div.o):
+    CODE              Offs=00422F  Size=000015  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(gt.o):
+    CODE              Offs=004244  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(icmp.o):
+    CODE              Offs=00424E  Size=00002E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp1.o):
+    CODE              Offs=00427C  Size=000007  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp2.o):
+    CODE              Offs=004283  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp3.o):
+    CODE              Offs=004299  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp4.o):
+    CODE              Offs=00429E  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp5.o):
+    CODE              Offs=0042A3  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp6.o):
+    CODE              Offs=0042A8  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp7.o):
+    CODE              Offs=0042AD  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(incsp8.o):
+    CODE              Offs=0042B2  Size=000005  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(kernal.o):
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lcmp.o):
+    CODE              Offs=0042B7  Size=00003B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ldai.o):
+    CODE              Offs=0042F2  Size=00000C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ldeaxysp.o):
+    CODE              Offs=0042FE  Size=000013  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lle.o):
+    CODE              Offs=004311  Size=000006  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lmul.o):
+    CODE              Offs=004317  Size=00005C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(loadaddr.o):
+    LOADADDR          Offs=000000  Size=000002  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lpush.o):
+    CODE              Offs=004373  Size=000021  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lsub.o):
+    CODE              Offs=004394  Size=000027  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(lt.o):
+    CODE              Offs=0043BB  Size=00000A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(ludiv.o):
+    CODE              Offs=0043C5  Size=00007A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(makebool.o):
+    CODE              Offs=00443F  Size=00002C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(memcpy.o):
+    CODE              Offs=00446B  Size=00003C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(memset.o):
+    CODE              Offs=0044A7  Size=00005D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul.o):
+    CODE              Offs=004504  Size=000045  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mul8.o):
+    CODE              Offs=004549  Size=00003A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mulax10.o):
+    CODE              Offs=004583  Size=000019  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mulax3.o):
+    CODE              Offs=00459C  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(mulax5.o):
+    CODE              Offs=0045AD  Size=000014  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(negabs.o):
+    CODE              Offs=0045C1  Size=000012  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(or.o):
+    CODE              Offs=0045D3  Size=000012  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(popptr1.o):
+    CODE              Offs=0045E5  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pusha.o):
+    CODE              Offs=0045F3  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushax.o):
+    CODE              Offs=004609  Size=00001A  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(pushwsp.o):
+    CODE              Offs=004623  Size=00001C  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shelp.o):
+    CODE              Offs=00463F  Size=000020  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shl.o):
+    CODE              Offs=00465F  Size=000033  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax2.o):
+    CODE              Offs=004692  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(shrax3.o):
+    CODE              Offs=00469D  Size=00000E  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staspidx.o):
+    CODE              Offs=0046AB  Size=000016  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staxsp.o):
+    CODE              Offs=0046C1  Size=00000B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(staxspi.o):
+    CODE              Offs=0046CC  Size=00001B  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(sub.o):
+    CODE              Offs=0046E7  Size=000015  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(subysp.o):
+    CODE              Offs=0046FC  Size=00000D  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(udiv.o):
+    CODE              Offs=004709  Size=00004F  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(umod.o):
+    CODE              Offs=004758  Size=000011  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zerobss.o):
+    CODE              Offs=004769  Size=000023  Align=00001  Fill=0000
+D:\Claude\oddballz-c64\vendor\cc65\lib/c64.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000002  00001B  00001A  00001
+LOADADDR              0007FF  000800  000002  00001
+EXEHDR                000801  00080C  00000C  00001
+STARTUP               00080D  00083F  000033  00001
+CODE                  000840  004FCB  00478C  00001
+RODATA                004FCC  00521B  000250  00001
+DATA                  00521C  00525E  000043  00001
+INIT                  00525F  00527A  00001C  00001
+BSS                   00527B  005CC6  000A4C  00001
+ONCE                  00527B  0052A0  000026  00001
+
+
+Exports list by name:
+---------------------
+BSOUT                     00FFD2 RLA    _BALL_MASK                005916 RLA    
+_EXPAND                   00592C RLA    _ROW_ADDR_HI              005A34 RLA    
+_ROW_ADDR_LO              00596C RLA    _ROW_CELL_HI              005BC4 RLA    
+_ROW_CELL_LO              005AFC RLA    __BSS_RUN__               00527B RLA    
+__BSS_SIZE__              000A4C REA    __CONSTRUCTOR_COUNT__     000000 REA    
+__CONSTRUCTOR_TABLE__     0052A1 RLA    __DESTRUCTOR_COUNT__      000000 REA    
+__DESTRUCTOR_TABLE__      00521C RLA    __EXEHDR__                000001 REA    
+__HEADER_LAST__           00080D RLA    __HIMEM__                 00D000 REA    
+__LOADADDR__              000001 REA    __MAIN_SIZE__             00C7F3 REA    
+__MAIN_START__            00080D RLA    __ONCE_RUN__              00527B RLA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+___bzero                  004CE7 RLA    _main                     004500 RLA    
+_memcpy                   004CAB RLA    _memset                   004CEF RLA    
+_stamp_ball_asm           0047FF RLA    _stamp_bc                 005C8C RLA    
+_stamp_col                005C8E RLA    _stamp_slot               005C8F RLA    
+_stamp_y0                 005C8D RLA    addeq0sp                  004972 RLA    
+addeqysp                  004974 RLA    addysp                    004984 RLA    
+addysp1                   004983 RLA    aslax2                    004991 RLA    
+aslax3                    00499C RLA    aslax4                    0049AA RLA    
+asrax1                    0049BB RLA    asrax2                    0049C5 RLA    
+asrax3                    0049D4 RLA    axlong                    0049E8 RLA    
+booleq                    004C85 RLA    boolgt                    004C94 RLA    
+boolle                    004C8C RLA    boollt                    004C8E RLA    
+boolne                    004C7F RLA    boolult                   004C9E RLA    
+c_sp                      000002 RLZ    callmain                  0049F5 RLA    
+decsp1                    004A18 RLA    decsp2                    004A21 RLA    
+decsp3                    004A2E RLA    decsp4                    004A3B RLA    
+decsp5                    004A48 RLA    decsp6                    004A55 RLA    
+decsp8                    004A62 RLA    donelib                   004A0C RLA    
+incsp1                    004ABC RLA    incsp2                    004ACB RLA    
+incsp3                    004AD9 RLA    incsp4                    004ADE RLA    
+incsp5                    004AE3 RLA    incsp6                    004AE8 RLA    
+incsp7                    004AED RLA    incsp8                    004AF2 RLA    
+initlib                   00527B RLA    ldaidx                    004B32 RLA    
+ldeaxysp                  004B40 RLA    mul8x16                   004D8B RLA    
+mul8x16a                  004D95 RLA    mulax10                   004DC3 RLA    
+mulax3                    004DDC RLA    mulax5                    004DED RLA    
+negax                     004E05 RLA    popax                     004AC3 RLA    
+popptr1                   004E25 RLA    popsargsudiv16            004E7F RLA    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+push0                     004E49 RLA    push0ax                   004BB6 RLA    
+pusha                     004E37 RLA    pusha0                    004E4B RLA    
+pushax                    004E4D RLA    pusheax                   004BBC RLA    
+pushw0sp                  004E63 RLA    pushwysp                  004E65 RLA    
+regsave                   000006 RLZ    shlax2                    004991 RLA    
+shlax3                    00499C RLA    shlax4                    0049AA RLA    
+shlaxy                    004EA6 RLA    shrax2                    004ED2 RLA    
+shrax3                    004EDD RLA    sreg                      000004 RLZ    
+staspidx                  004EEB RLA    stax0sp                   004F01 RLA    
+staxspidx                 004F0C RLA    staxysp                   004F03 RLA    
+subysp                    004F3C RLA    tmp1                      000012 RLZ    
+tmp2                      000013 RLZ    tmp3                      000014 RLZ    
+tmp4                      000015 RLZ    tosadda0                  004956 RLA    
+tosaddax                  004958 RLA    tosaslax                  004E9F RLA    
+tosdiva0                  004A6F RLA    tosgtax                   004A88 RLA    
+tosicmp                   004A90 RLA    toslcmp                   004AF7 RLA    
+tosleeax                  004B51 RLA    tosltax                   004BFF RLA    
+tosmula0                  004D89 RLA    tosmulax                  004D44 RLA    
+tosmuleax                 004B5D RLA    tosora0                   004E13 RLA    
+tossuba0                  004F27 RLA    tossubax                  004F29 RLA    
+tossubeax                 004BDA RLA    tosudiv0ax                004C05 RLA    
+tosudiva0                 004F49 RLA    tosudivax                 004F4B RLA    
+tosumoda0                 004F98 RLA    tosumodax                 004F9A RLA    
+tosumul0ax                004B57 RLA    tosumula0                 004D89 RLA    
+tosumulax                 004D44 RLA    udiv16                    004F5A RLA    
+zerobss                   004FA9 RLA    
+
+
+Exports list by value:
+----------------------
+__CONSTRUCTOR_COUNT__     000000 REA    __DESTRUCTOR_COUNT__      000000 REA    
+__LOADADDR__              000001 REA    __STARTUP__               000001 REA    
+__EXEHDR__                000001 REA    c_sp                      000002 RLZ    
+sreg                      000004 RLZ    regsave                   000006 RLZ    
+ptr1                      00000A RLZ    ptr2                      00000C RLZ    
+ptr3                      00000E RLZ    ptr4                      000010 RLZ    
+tmp1                      000012 RLZ    tmp2                      000013 RLZ    
+tmp3                      000014 RLZ    tmp4                      000015 RLZ    
+__STACKSIZE__             000800 REA    __HEADER_LAST__           00080D RLA    
+__MAIN_START__            00080D RLA    __BSS_SIZE__              000A4C REA    
+_main                     004500 RLA    _stamp_ball_asm           0047FF RLA    
+tosadda0                  004956 RLA    tosaddax                  004958 RLA    
+addeq0sp                  004972 RLA    addeqysp                  004974 RLA    
+addysp1                   004983 RLA    addysp                    004984 RLA    
+shlax2                    004991 RLA    aslax2                    004991 RLA    
+shlax3                    00499C RLA    aslax3                    00499C RLA    
+aslax4                    0049AA RLA    shlax4                    0049AA RLA    
+asrax1                    0049BB RLA    asrax2                    0049C5 RLA    
+asrax3                    0049D4 RLA    axlong                    0049E8 RLA    
+callmain                  0049F5 RLA    donelib                   004A0C RLA    
+decsp1                    004A18 RLA    decsp2                    004A21 RLA    
+decsp3                    004A2E RLA    decsp4                    004A3B RLA    
+decsp5                    004A48 RLA    decsp6                    004A55 RLA    
+decsp8                    004A62 RLA    tosdiva0                  004A6F RLA    
+tosgtax                   004A88 RLA    tosicmp                   004A90 RLA    
+incsp1                    004ABC RLA    popax                     004AC3 RLA    
+incsp2                    004ACB RLA    incsp3                    004AD9 RLA    
+incsp4                    004ADE RLA    incsp5                    004AE3 RLA    
+incsp6                    004AE8 RLA    incsp7                    004AED RLA    
+incsp8                    004AF2 RLA    toslcmp                   004AF7 RLA    
+ldaidx                    004B32 RLA    ldeaxysp                  004B40 RLA    
+tosleeax                  004B51 RLA    tosumul0ax                004B57 RLA    
+tosmuleax                 004B5D RLA    push0ax                   004BB6 RLA    
+pusheax                   004BBC RLA    tossubeax                 004BDA RLA    
+tosltax                   004BFF RLA    tosudiv0ax                004C05 RLA    
+boolne                    004C7F RLA    booleq                    004C85 RLA    
+boolle                    004C8C RLA    boollt                    004C8E RLA    
+boolgt                    004C94 RLA    boolult                   004C9E RLA    
+_memcpy                   004CAB RLA    ___bzero                  004CE7 RLA    
+_memset                   004CEF RLA    tosumulax                 004D44 RLA    
+tosmulax                  004D44 RLA    tosumula0                 004D89 RLA    
+tosmula0                  004D89 RLA    mul8x16                   004D8B RLA    
+mul8x16a                  004D95 RLA    mulax10                   004DC3 RLA    
+mulax3                    004DDC RLA    mulax5                    004DED RLA    
+negax                     004E05 RLA    tosora0                   004E13 RLA    
+popptr1                   004E25 RLA    pusha                     004E37 RLA    
+push0                     004E49 RLA    pusha0                    004E4B RLA    
+pushax                    004E4D RLA    pushw0sp                  004E63 RLA    
+pushwysp                  004E65 RLA    popsargsudiv16            004E7F RLA    
+tosaslax                  004E9F RLA    shlaxy                    004EA6 RLA    
+shrax2                    004ED2 RLA    shrax3                    004EDD RLA    
+staspidx                  004EEB RLA    stax0sp                   004F01 RLA    
+staxysp                   004F03 RLA    staxspidx                 004F0C RLA    
+tossuba0                  004F27 RLA    tossubax                  004F29 RLA    
+subysp                    004F3C RLA    tosudiva0                 004F49 RLA    
+tosudivax                 004F4B RLA    udiv16                    004F5A RLA    
+tosumoda0                 004F98 RLA    tosumodax                 004F9A RLA    
+zerobss                   004FA9 RLA    __DESTRUCTOR_TABLE__      00521C RLA    
+__ONCE_RUN__              00527B RLA    __BSS_RUN__               00527B RLA    
+initlib                   00527B RLA    __CONSTRUCTOR_TABLE__     0052A1 RLA    
+_BALL_MASK                005916 RLA    _EXPAND                   00592C RLA    
+_ROW_ADDR_LO              00596C RLA    _ROW_ADDR_HI              005A34 RLA    
+_ROW_CELL_LO              005AFC RLA    _ROW_CELL_HI              005BC4 RLA    
+_stamp_bc                 005C8C RLA    _stamp_y0                 005C8D RLA    
+_stamp_col                005C8E RLA    _stamp_slot               005C8F RLA    
+__MAIN_SIZE__             00C7F3 REA    __HIMEM__                 00D000 REA    
+BSOUT                     00FFD2 RLA    
+
+
+Imports list:
+-------------
+BSOUT (kernal.o):
+    crt0.o                    c64/crt0.s:10
+_BALL_MASK (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:25
+_EXPAND (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:25
+_ROW_ADDR_HI (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:26
+_ROW_ADDR_LO (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:26
+_ROW_CELL_HI (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:27
+_ROW_CELL_LO (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:27
+__BSS_RUN__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:6
+__HEADER_LAST__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__HIMEM__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:14
+__LOADADDR__ (loadaddr.o):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:5
+__MAIN_SIZE__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__MAIN_START__ ([linker generated]):
+    crt0.o                    c64/crt0.s:11
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STACKSIZE__ ([linker generated]):
+    [linker generated]        D:\Claude\oddballz-c64\vendor\cc65\cfg/c64.cfg:15
+__STARTUP__ (crt0.o):
+    game.c.38180.0.o          game.c.38180.0.s:13
+___bzero (memset.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+_main (game.c.38180.0.o):
+    callmain.o                runtime/callmain.s:11
+_memcpy (memcpy.o):
+    game.c.38180.0.o          game.c.38180.0.s:14
+_memset (memset.o):
+    game.c.38180.0.o          game.c.38180.0.s:15
+_stamp_ball_asm (stamp.s.38180.1.o):
+    game.c.38180.0.o          game.c.38180.0.s:56
+_stamp_bc (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+_stamp_col (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+_stamp_slot (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+_stamp_y0 (game.c.38180.0.o):
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\spikes\common\stamp.s:28
+addeq0sp (addeqsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+addeqysp (addeqsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+addysp (addysp.o):
+    incsp8.o                  runtime/incsp8.s:8
+    incsp7.o                  runtime/incsp7.s:8
+    incsp6.o                  runtime/incsp6.s:8
+    incsp5.o                  runtime/incsp5.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+    or.o                      runtime/or.s:9
+    ludiv.o                   runtime/ludiv.s:9
+    lsub.o                    runtime/lsub.s:11
+    lmul.o                    runtime/lmul.s:9
+aslax2 (aslax2.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+aslax3 (aslax3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+aslax4 (aslax4.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+asrax1 (asrax1.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+asrax2 (asrax2.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+asrax3 (asrax3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+axlong (axlong.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+booleq (makebool.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+boolgt (makebool.o):
+    gt.o                      runtime/gt.s:8
+boolle (makebool.o):
+    lle.o                     runtime/lle.s:8
+boollt (makebool.o):
+    lt.o                      runtime/lt.s:8
+boolne (makebool.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+boolult (makebool.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+c_sp (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    subysp.o                  runtime/subysp.s:9
+    sub.o                     runtime/sub.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    staxsp.o                  runtime/staxsp.s:8
+    staspidx.o                runtime/staspidx.s:9
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    or.o                      runtime/or.s:10
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    ludiv.o                   runtime/ludiv.s:10
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    incsp2.o                  runtime/incsp2.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp8.o                  runtime/decsp8.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    decsp5.o                  runtime/decsp5.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp2.o                  runtime/decsp2.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /home/runner/work/cc65/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    add.o                     runtime/add.s:12
+    game.c.38180.0.o          game.c.38180.0.s:10
+callmain (callmain.o):
+    crt0.o                    c64/crt0.s:9
+decsp1 (decsp1.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp2 (decsp2.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp3 (decsp3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp4 (decsp4.o):
+    lpush.o                   runtime/lpush.s:12
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp5 (decsp5.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp6 (decsp6.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+decsp8 (decsp8.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+donelib (condes.o):
+    crt0.o                    c64/crt0.s:8
+incsp1 (incsp1.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp2 (incsp2.o):
+    staxspi.o                 runtime/staxspi.s:9
+    staspidx.o                runtime/staspidx.s:8
+    popptr1.o                 runtime/popptr1.s:8
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp3 (incsp3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp4 (incsp4.o):
+    lcmp.o                    runtime/lcmp.s:9
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp5 (incsp5.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp6 (incsp6.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp7 (incsp7.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+incsp8 (incsp8.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+initlib (condes.o):
+    crt0.o                    c64/crt0.s:8
+ldaidx (ldai.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+ldeaxysp (ldeaxysp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+mul8x16 (mul8.o):
+    mul.o                     runtime/mul.s:8
+mul8x16a (mul8.o):
+    mul.o                     runtime/mul.s:8
+mulax10 (mulax10.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+mulax3 (mulax3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+mulax5 (mulax5.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    div.o                     runtime/div.s:11
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+popax (incsp2.o):
+    shl.o                     runtime/shl.s:15
+    shelp.o                   runtime/shelp.s:11
+    memset.o                  common/memset.s:19
+    memcpy.o                  common/memcpy.s:14
+popptr1 (popptr1.o):
+    umod.o                    runtime/umod.s:8
+    udiv.o                    runtime/udiv.s:9
+    mul8.o                    runtime/mul8.s:9
+    mul.o                     runtime/mul.s:9
+    memcpy.o                  common/memcpy.s:14
+popsargsudiv16 (shelp.o):
+    div.o                     runtime/div.s:11
+ptr1 (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    zerobss.o                 common/zerobss.s:9
+    udiv.o                    runtime/udiv.s:10
+    staxspi.o                 runtime/staxspi.s:10
+    staspidx.o                runtime/staspidx.s:9
+    shelp.o                   runtime/shelp.s:12
+    popptr1.o                 runtime/popptr1.s:9
+    mulax5.o                  runtime/mulax5.s:9
+    mulax3.o                  runtime/mulax3.s:9
+    mulax10.o                 runtime/mulax10.s:9
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    ludiv.o                   runtime/ludiv.s:10
+    lmul.o                    runtime/lmul.s:10
+    ldai.o                    runtime/ldai.s:8
+    div.o                     runtime/div.s:12
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+    game.c.38180.0.o          game.c.38180.0.s:11
+ptr2 (zeropage.o):
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    ludiv.o                   runtime/ludiv.s:10
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+    game.c.38180.0.o          game.c.38180.0.s:11
+ptr3 (zeropage.o):
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    ludiv.o                   runtime/ludiv.s:10
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+ptr4 (zeropage.o):
+    umod.o                    runtime/umod.s:9
+    udiv.o                    runtime/udiv.s:10
+    shelp.o                   runtime/shelp.s:12
+    mul8.o                    runtime/mul8.s:10
+    mul.o                     runtime/mul.s:10
+    ludiv.o                   runtime/ludiv.s:10
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:12
+push0 (pushax.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+push0ax (lpush.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pusha (pusha.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pusha0 (pushax.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pushax (pushax.o):
+    callmain.o                runtime/callmain.s:11
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pusheax (lpush.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pushw0sp (pushwsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+pushwysp (pushwsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+regsave (zeropage.o):
+    game.c.38180.0.o          game.c.38180.0.s:10
+shlax2 (aslax2.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+shlax3 (aslax3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+shlax4 (aslax4.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+shlaxy (shl.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+shrax2 (shrax2.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+shrax3 (shrax3.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+sreg (zeropage.o):
+    lcmp.o                    runtime/lcmp.s:10
+    umod.o                    runtime/umod.s:9
+    udiv.o                    runtime/udiv.s:10
+    ludiv.o                   runtime/ludiv.s:10
+    lsub.o                    runtime/lsub.s:12
+    lpush.o                   runtime/lpush.s:13
+    lmul.o                    runtime/lmul.s:10
+    ldeaxysp.o                runtime/ldeaxysp.s:12
+    icmp.o                    runtime/icmp.s:9
+    axlong.o                  runtime/axlong.s:9
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:11
+    game.c.38180.0.o          game.c.38180.0.s:10
+staspidx (staspidx.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+stax0sp (staxsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+staxspidx (staxspi.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+staxysp (staxsp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+subysp (subysp.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tmp1 (zeropage.o):
+    staxspi.o                 runtime/staxspi.s:10
+    staspidx.o                runtime/staspidx.s:9
+    shrax3.o                  runtime/shrax3.s:8
+    shrax2.o                  runtime/shrax2.s:8
+    shl.o                     runtime/shl.s:16
+    shelp.o                   runtime/shelp.s:12
+    or.o                      runtime/or.s:10
+    mul.o                     runtime/mul.s:10
+    div.o                     runtime/div.s:12
+    asrax3.o                  runtime/asrax3.s:9
+    asrax2.o                  runtime/asrax2.s:8
+    asrax1.o                  runtime/asrax1.s:8
+    aslax4.o                  runtime/aslax4.s:8
+    aslax3.o                  runtime/aslax3.s:8
+    aslax2.o                  runtime/aslax2.s:8
+    add.o                     runtime/add.s:12
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+    game.c.38180.0.o          game.c.38180.0.s:11
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s:12
+    lmul.o                    runtime/lmul.s:10
+    div.o                     runtime/div.s:12
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tmp3 (zeropage.o):
+    ludiv.o                   runtime/ludiv.s:10
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tmp4 (zeropage.o):
+    ludiv.o                   runtime/ludiv.s:10
+    lmul.o                    runtime/lmul.s:10
+    stamp.s.38180.1.o         D:\Claude\oddballz-c64\vendor\cc65\asminc/zeropage.inc:13
+tosadda0 (add.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosaddax (add.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosaslax (shl.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosdiva0 (div.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosgtax (gt.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosicmp (icmp.o):
+    lt.o                      runtime/lt.s:8
+    gt.o                      runtime/gt.s:8
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+toslcmp (lcmp.o):
+    lle.o                     runtime/lle.s:8
+tosleeax (lle.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosltax (lt.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosmula0 (mul8.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosmulax (mul.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosmuleax (lmul.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosora0 (or.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tossuba0 (sub.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tossubax (sub.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tossubeax (lsub.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosudiv0ax (ludiv.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosudiva0 (udiv.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosudivax (udiv.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosumoda0 (umod.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosumodax (umod.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosumul0ax (lmul.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosumula0 (mul8.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+tosumulax (mul.o):
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+    game.c.38180.0.o          game.c.38180.0.s:9971
+udiv16 (udiv.o):
+    umod.o                    runtime/umod.s:8
+    shelp.o                   runtime/shelp.s:11
+zerobss (zerobss.o):
+    crt0.o                    c64/crt0.s:9
+
