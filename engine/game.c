@@ -550,12 +550,20 @@ static unsigned char read_input(void)
      * constant during a fall, and a click on each turned the game into a
      * typewriter. The sounds that remain all mark something happening to the
      * BOARD: cycle, zip, lock, match. */
-    if (pressed & 0x10) sfx_play(SFX_CLICK);  /* F: colour cycle */
     if (pressed & 0x08) piece_rotate_dir(1);  /* K: clockwise */
     if (pressed & 0x80) piece_rotate_dir(0);  /* I: counter-clockwise */
-    if (pressed & 0x10) piece_cycle_colors(); /* F */
     if (pressed & 0x20) piece_flip(1);        /* X: flip about x */
     if (pressed & 0x40) piece_flip(0);        /* Y: flip about y */
+
+    /* F, and only in colour match. piece_cycle_colors() already returns early in
+     * Row Build -- where the whole piece is one colour and cycling means
+     * nothing -- but the click was played before it was called, so the key
+     * answered back while doing nothing. A sound for a no-op is worse than
+     * silence: it says the press registered and something changed. */
+    if ((pressed & 0x10) && matcher) {
+        piece_cycle_colors();
+        sfx_play(SFX_CLICK);
+    }
 
     /* zip(), :763 -- a latch, not a held key. Once committed the piece drops
      * all the way; isZipping is only cleared when the next one spawns (:406). */
