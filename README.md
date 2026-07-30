@@ -3,7 +3,7 @@
 A Commodore 64 port of Oddballz, the 1992 Borland Pascal hex puzzle game.
 
 This is a **new project with its own history**. The WebGL/Three.js remake at
-`oddballz-hd` is *not* forked or copied into it — it serves as a
+`D:\Claude\oddballz-hd` is *not* forked or copied into it — it serves as a
 **read-only reference spec and behavioural oracle**. Its engine (section 2 of
 `oddballz-app.js`) is integer-only and has been validated over hundreds of
 simulated drops, so it can be used to cross-check C64 output on identical board
